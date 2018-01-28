@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="ok"
+	    fetch="https://github.com/OpenKirin-Treble/"
+	    revision="android-8.0" />
+
+    <!-- Kirin 960/970 based devices -->
+    <project path="device/huawei/hi36xx" name="platform_device_huawei_hi36xx" remote="ok" />
+
+</manifest>

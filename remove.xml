@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remove-project name="build" />
+  <remove-project name="frameworks/base" />
+  <remove-project name="frameworks/native" />
+  <remove-project name="frameworks/opt/net/wifi" />
+  <remove-project name="packages/services/Telephony" />
+  <remove-project name="system/bt" />
+  <remove-project name="system/core" />
+  <remove-project name="system/netd" />
+  <remove-project name="system/vold" />
+
+</manifest>
