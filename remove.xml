@@ -4,6 +4,7 @@
   <remove-project name="build" />
   <remove-project name="frameworks/base" />
   <remove-project name="frameworks/native" />
+  <remove-project name="frameworks/opt/telephony" />
   <remove-project name="frameworks/opt/net/wifi" />
   <remove-project name="packages/services/Telephony" />
   <remove-project name="system/bt" />

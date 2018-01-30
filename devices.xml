@@ -8,4 +8,7 @@
     <!-- Kirin 960/970 based devices -->
     <project path="device/huawei/hi36xx" name="platform_device_huawei_hi36xx" remote="ok" />
 
+    <!-- GApps -->
+    <project path="vendor/google" name="platform_vendor_google" remote="ok" />
+
 </manifest>
