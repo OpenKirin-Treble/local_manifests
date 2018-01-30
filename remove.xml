@@ -2,10 +2,17 @@
 <manifest>
 
   <remove-project name="build" />
+  <remove-project name="external/libavc" />
+  <remove-project name="external/libhevc" />
+  <remove-project name="external/libmpeg2" />
+  <remove-project name="external/skia" />
+  <remove-project name="frameworks/av" />
   <remove-project name="frameworks/base" />
+  <remove-project name="frameworks/minikin" />
   <remove-project name="frameworks/native" />
   <remove-project name="frameworks/opt/telephony" />
   <remove-project name="frameworks/opt/net/wifi" />
+  <remove-project name="packages/apps/Settings" />
   <remove-project name="packages/services/Telephony" />
   <remove-project name="system/bt" />
   <remove-project name="system/core" />
