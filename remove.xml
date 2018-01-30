@@ -16,7 +16,11 @@
   <remove-project name="packages/services/Telephony" />
   <remove-project name="system/bt" />
   <remove-project name="system/core" />
+  <remove-project name="system/hwservicemanager" />
+  <remove-project name="system/libhidl" />
+  <remove-project name="system/media" />
   <remove-project name="system/netd" />
+  <remove-project name="system/tools/hidl" />
   <remove-project name="system/vold" />
 
 </manifest>

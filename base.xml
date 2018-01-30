@@ -28,7 +28,11 @@
     <project path="packages/services/Telephony" name="platform_packages_services_Telephony" remote="ok" />
     <project path="system/bt" name="platform_system_bt" remote="ok" />
     <project path="system/core" name="platform_system_core" remote="ok" />
+    <project path="system/hwservicemanager" name="platform_system_hwservicemanager" remote="ok" />
+    <project path="system/libhidl" name="platform_system_libhidl" remote="ok" />
+    <project path="system/media" name="platform_system_media" remote="ok" />
     <project path="system/netd" name="platform_system_netd" remote="ok" />
+    <project path="system/tools/hidl" name="platform_system_tools_hidl" remote="ok" />
     <project path="system/vold" name="platform_system_vold" remote="ok" />
 
 </manifest>
