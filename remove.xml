@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remove-project name="build" />
-  <remove-project name="external/libavc" />
-  <remove-project name="external/libhevc" />
-  <remove-project name="external/libmpeg2" />
-  <remove-project name="external/skia" />
-  <remove-project name="frameworks/av" />
-  <remove-project name="frameworks/base" />
-  <remove-project name="frameworks/minikin" />
-  <remove-project name="frameworks/native" />
-  <remove-project name="frameworks/opt/telephony" />
-  <remove-project name="frameworks/opt/net/wifi" />
-  <remove-project name="packages/apps/Settings" />
-  <remove-project name="packages/services/Telephony" />
-  <remove-project name="system/bt" />
-  <remove-project name="system/core" />
-  <remove-project name="system/hwservicemanager" />
-  <remove-project name="system/libhidl" />
-  <remove-project name="system/media" />
-  <remove-project name="system/netd" />
-  <remove-project name="system/tools/hidl" />
-  <remove-project name="system/vold" />
+    <remove-project name="platform/build" />
+    <remove-project name="platform/external/libavc" />
+    <remove-project name="platform/external/libhevc" />
+    <remove-project name="platform/external/libmpeg2" />
+    <remove-project name="platform/external/skia" />
+    <remove-project name="platform/frameworks/av" />
+    <remove-project name="platform/frameworks/base" />
+    <remove-project name="platform/frameworks/minikin" />
+    <remove-project name="platform/frameworks/native" />
+    <remove-project name="platform/frameworks/opt/telephony" />
+    <remove-project name="platform/frameworks/opt/net/wifi" />
+    <remove-project name="platform/packages/apps/Settings" />
+    <remove-project name="platform/packages/services/Telephony" />
+    <remove-project name="platform/system/bt" />
+    <remove-project name="platform/system/core" />
+    <remove-project name="platform/system/hwservicemanager" />
+    <remove-project name="platform/system/libhidl" />
+    <remove-project name="platform/system/media" />
+    <remove-project name="platform/system/netd" />
+    <remove-project name="platform/system/tools/hidl" />
+    <remove-project name="platform/system/vold" />
 
 </manifest>

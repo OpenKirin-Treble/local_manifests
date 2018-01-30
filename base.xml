@@ -5,6 +5,8 @@
 	    fetch="https://github.com/OpenKirin-Treble/"
 	    revision="android-8.0" />
 
+    <include name="remove.xml" />
+
     <project path="build" name="platform_build" remote="ok">
 	<copyfile dest="Makefile" src="core/root.mk" />
 	<linkfile dest="build/buildspec.mk.default" src="buildspec.mk.default" />
