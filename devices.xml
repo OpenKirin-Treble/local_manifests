@@ -6,7 +6,7 @@
 	    revision="android-8.0" />
 
     <!-- Kirin 960/970 based devices -->
-    <project path="device/huawei/hi3660" name="platform_device_huawei_hi3660" remote="ok" />
+    <project path="device/hisi/hi3660" name="platform_device_hisi_hi3660" remote="ok" />
 
     <!-- GApps -->
     <!--<project path="vendor/google" name="platform_vendor_google" remote="ok" />-->
