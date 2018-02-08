@@ -18,6 +18,7 @@
     <project path="external/libhevc" name="platform_external_libhevc" remote="ok" />
     <project path="external/libmpeg2" name="platform_external_libmpeg2" remote="ok" />
     <project path="external/skia" name="platform_external_skia" remote="ok" />
+    <project path="external/sonivox" name="platform_external_sonivox" remote="ok" />
     <project path="frameworks/av" name="platform_frameworks_av" remote="ok" />
     <project path="frameworks/base" name="platform_frameworks_base" remote="ok" />
     <project path="frameworks/minikin" name="platform_frameworks_minikin" remote="ok" />
@@ -33,6 +34,7 @@
     <project path="system/libhidl" name="platform_system_libhidl" remote="ok" />
     <project path="system/media" name="platform_system_media" remote="ok" />
     <project path="system/netd" name="platform_system_netd" remote="ok" />
+    <project path="system/security" name="platform_system_security" remote="ok" />
     <project path="system/tools/hidl" name="platform_system_tools_hidl" remote="ok" />
     <project path="system/vold" name="platform_system_vold" remote="ok" />
 
